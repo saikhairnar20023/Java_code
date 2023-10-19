@@ -20,6 +20,8 @@ public class Functions_ {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
+        //int b = sc.nextInt();
+       // System.out.println("Product of a and b" +calculatemul(a,b);
 
         printfactorial(a);
     }
